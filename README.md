@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @markverb1
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on the When Flag Clicked Website
-- 📫 How to reach me: Discord: Mark.exe#6989
+WIP
+ 
 
-GIVE ME AN INTERNET NOW!!!!!!!!!!!!!!!
+🌐Internometer:
 
 <a href='http://internetometer.com/give/48079'><img src='http://internetometer.com/image/48079.png'/></a>
 <!---
